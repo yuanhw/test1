@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.c">
+      </ContextState>
+      <ContextState
+         contextName = "partition:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "a[4]">
+            </PersistentString>
+            <PersistentString
+               value = "printArray(a, 0, 8)">
+            </PersistentString>
+            <PersistentString
+               value = "a[0]">
+            </PersistentString>
+            <PersistentString
+               value = "a[7]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "q_sort_1:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "a[2]">
+            </PersistentString>
+            <PersistentString
+               value = "a[5]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
